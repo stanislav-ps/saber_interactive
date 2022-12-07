@@ -30,7 +30,7 @@ The goal of this project is to create a script that merges two log files into on
 
 The following technologies are used to implement the service:
 
-Python 3.11
+Python 3.10.6
 Usage:
 
 $ git clone https://github.com/stanislav-ps/saber
