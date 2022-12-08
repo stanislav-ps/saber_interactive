@@ -26,6 +26,8 @@ log_generator.py <path/to/dir>
 
 
 
+
+Task_one
 Log merge
 The goal of this project is to create a script that merges two log files into one.
 
@@ -42,7 +44,7 @@ Example:
 python merge_logs.py ./input/log_a.jsonl ./input/log_b.jsonl -o ./output -f
 
 
-
+Task_two
 2. Миграция базы данных
 Есть база данных и два типа сервисов А и Б:
 • Сервисы типа А добавляют в базу записи в формате: id, name, status, timestamp.
