@@ -19,7 +19,7 @@ Saber Interactive
 К заданию прилагается вспомогательный скрипт на python3, который создает два файла "log_a.jsonl" и "log_b.jsonl".  
 Командлайн для запуска:  
 log_generator.py <path/to/dir>    
-Ваше приложение должно поддерживать следующий командлайн:
+Ваше приложение должно поддерживать следующий командлайн:  
 <your_script>.py <path/to/log1> <path/to/log2> -o <path/to/merged/log>
   
   ***
