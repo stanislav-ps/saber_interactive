@@ -33,7 +33,8 @@ The following technologies are used to implement the service:
 Python 3.10.6
 Usage:
 
-$ git clone https://github.com/stanislav-ps/saber
+$ git clone https://github.com/stanislav-ps/saber_interactive
+
 Run the console from the root project folder
 Execute the following command: python logs-merge.py <path/to/log1> <path/to/log2> -o <path/to/merged/log>
 Example:
