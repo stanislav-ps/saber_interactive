@@ -25,6 +25,7 @@ log_generator.py <path/to/dir>
 <your_script>.py <path/to/log1> <path/to/log2> -o <path/to/merged/log>
 
 
+
 Log merge
 The goal of this project is to create a script that merges two log files into one.
 
